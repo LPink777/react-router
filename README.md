@@ -1,5 +1,7 @@
 # react-router的实现
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LPink777/react-router.svg)](https://greenkeeper.io/)
+
 * [HashRouter](https://github.com/LPink777/react-router/blob/master/src/react-router-dom/HashRouter.js)
 * [Route](https://github.com/LPink777/react-router/blob/master/src/react-router-dom/Route.js)
 * [Redirect](https://github.com/LPink777/react-router/blob/master/src/react-router-dom/Redirect.js)
